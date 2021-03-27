@@ -1,0 +1,18 @@
+﻿  main.cpp
+c:\users\tinoa\desktop\knknl\3170039_3170086\filter\filter\filterblur.h(20): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+c:\users\tinoa\desktop\knknl\3170039_3170086\filter\filter\filterblur.h(25): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+c:\users\tinoa\desktop\knknl\3170039_3170086\filter\filter\main.cpp(72): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Generating code
+  0 of 411 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  filter.vcxproj -> C:\Users\tinoa\Desktop\knknl\3170039_3170086\filter\Release\filter.exe
